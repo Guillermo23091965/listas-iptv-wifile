@@ -1,0 +1,130 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Odisea" tvg-logo="https://miguia.tv/channels/big_131.png" group-title="Premium",Canal Odisea
+http://vegafibratv.com:8085/odisea/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Cocina" tvg-logo="https://miguia.tv/channels/big_43.png" group-title="Premium",Canal Cocina
+http://vegafibratv.com:8085/cocina/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Decasa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="Premium",Canal DeCasa
+http://vegafibratv.com:8085/Decasa/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="VinTV" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_de_VinTV.png" group-title="Premium",Vin TV
+http://vegafibratv.com:8085/panda/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BUENVIAJE" tvg-logo="https://commons.wikimedia.org/wiki/File:Logo_de_VinTV.png" group-title="Premium",Buenviaje
+http://vegafibratv.com:8085/BUENVIAJE/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC" tvg-logo="https://miguia.tv/channels/big_195.png" group-title="premium",AMC
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN/index" tvg-logo="https://miguia.tv/channels/big_5.png" group-title="Premium",AXN
+http://vegafibratv.com:8085/AXN/index.m3u8
+#EXTINF:-1 tvg-id="Warnertv.es" tvg-name="WARNERTV" tvg-logo="https://miguia.tv/channels/big_150.png" group-title="Premium",WARNERTV
+http://vegafibratv.com:8085/WARNERTV/index.m3u8
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="XTRM" tvg-logo="https://miguia.tv/channels/big_213.png" group-title="Premium",XTRM
+http://vegafibratv.com:8085/Xtrm/index.m3u8
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY" tvg-logo="https://miguia.tv/channels/big_141.png" group-title="Premium",SYFY
+http://vegafibratv.com:8085/syfy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="https://miguia.tv/channels/big_94.png" group-title="Premium",Canal Hollywood
+http://vegafibratv.com:8085/Hollywood/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dark" tvg-logo="https://miguia.tv/channels/big_198.png" group-title="Premium",Dark
+http://vegafibratv.com:8085/Dark/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="somos/index" tvg-logo="https://miguia.tv/channels/big_193.png" group-title="Premium",Somos
+http://vegafibratv.com:8085/somos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="https://miguia.tv/channels/big_146.png" group-title="Premium",TCM
+http://vegafibratv.com:8085/TCM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSMO/index" tvg-logo="https://miguia.tv/channels/big_62.png" group-title="Premium",COSMO
+http://vegafibratv.com:8085/COSMO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://miguia.tv/channels/big_134.png" group-title="Premium",Comedy Central
+http://vegafibratv.com:8085/comedycentral/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star" tvg-logo="https://miguia.tv/channels/big_45.png" group-title="Premium",Star
+http://vegafibratv.com:8085/Star/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nova" tvg-logo="https://miguia.tv/channels/big_130.png" group-title="Premium",Nova
+http://vegafibratv.com:8085/nova/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="https://miguia.tv/channels/big_125.png" group-title="Premium",Neox
+http://vegafibratv.com:8085/neox/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="La Sexta" tvg-logo="https://miguia.tv/channels/big_100.png" group-title="Premium",La Sexta
+http://vegafibratv.com:8085/LaSexta/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="La Otra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/La_Otra_logo_%282017%29.svg/1200px-La_Otra_logo_%282017%29.svg.png" group-title="Premium",La Otra
+http://vegafibratv.com:8085/laotra/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Calle 13" tvg-logo="https://miguia.tv/channels/big_21.png" group-title="Premium",Calle 13
+http://vegafibratv.com:8085/calle13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bom Cine" tvg-logo="https://miguia.tv/channels/big_307.png" group-title="Premium",Bom 
+http://vegafibratv.com:8085/BOM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="https://images.seeklogo.com/logo-png/39/1/paramount-logo-png_seeklogo-397501.png" group-title="Premium",Paramount
+http://vegafibratv.com:8085/Paramount/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CMM" tvg-logo="https://brandemia.org/sites/default/files/sites/default/files/logo_castilla_la-mancha-tv.jpg" group-title="Premium",CMM
+http://vegafibratv.com:8085/CMM/index/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://miguia.tv/channels/big_69.png" group-title="Premium",Discovery
+http://vegafibratv.com:8085/dicovery/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Premium",MTV
+http://vegafibratv.com:8085/MTV/index/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Premium",FDF
+http://vegafibratv.com:8085/fdf/index/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mplus-liga-de-campeones-es.png" group-title="Premium",Historia
+http://vegafibratv.com:8085/historia/index/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="8madridTV.es" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/172d5a2b68815456a81891c517aa1715_LOGO_RGB_AMC_BLACK_2020.png",Amc
+http://vegafibratv.com:8085/AMC/index.m3u8
+
+#EXTINF:-1,Bom Cine
+http://vegafibratv.com:8085/BOM/index.m3u8
+
+#EXTINF:-1,TCM
+http://vegafibratv.com:8085/TCM/index.m3u8
+
+
+#EXTINF:-1,AXN
+http://vegafibratv.com:8085/AXN/index.m3u8
+
+#EXTINF:-1,WARNERTV
+http://vegafibratv.com:8085/WARNERTV/index.m3u8
+
+
+#EXTINF:-1,COSMO 
+http://vegafibratv.com:8085/COSMO/index.m3u8
+
+#EXTINF:-1,MTV SP
+http://vegafibratv.com:8085/MTV/index.m3u8
+
+#EXTINF:-1,TOROLÉ
+http://vegafibratv.com:8085/TOROLE/index.m3u8
+
+#EXTINF:-1,VEO 7
+http://vegafibratv.com:8085/GOLPLAY/index.m3u8
